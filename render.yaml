@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: assistantai
+    runtime: static
+    buildCommand: npm run build
+    staticPublishPath: ./out
+    pullRequestPreviewsEnabled: true

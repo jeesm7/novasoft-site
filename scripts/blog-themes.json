@@ -1,0 +1,1050 @@
+{
+  "postThemes": {
+    "10-small-business-tasks-automate-today": {
+      "theme": "ai-assistant",
+      "title": "10 Small Business Tasks You Should Automate Today"
+    },
+    "24-7-customer-support-without-night-staff": {
+      "theme": "customer-service",
+      "title": "24/7 Customer Support Without Hiring Night Staff"
+    },
+    "5-ways-ai-handles-customer-service-24-7": {
+      "theme": "customer-service",
+      "title": "5 Ways AI Handles Customer Service 24/7 (Without Hiring Night Staff)"
+    },
+    "accounting-firm-automation-client-communication": {
+      "theme": "accounting",
+      "title": "Accounting Firm Automation: AI for Client Communication, Document Collection, and Lead Follow-Up"
+    },
+    "ai-answering-service-for-law-firms": {
+      "theme": "law-firm",
+      "title": "AI Answering Service for Law Firms: Capture Every Client Without Hiring More Staff"
+    },
+    "ai-appointment-reminder-system-for-salons": {
+      "theme": "salon",
+      "title": "AI Appointment Reminder System for Salons: Cut No-Shows and Fill Your Books"
+    },
+    "ai-appointment-scheduling-never-miss-booking": {
+      "theme": "appointment",
+      "title": "AI Appointment Scheduling: Never Miss a Booking Again"
+    },
+    "ai-appointment-setter-for-real-estate": {
+      "theme": "real-estate-agent",
+      "title": "AI Appointment Setter for Real Estate: Book More Showings on Autopilot"
+    },
+    "ai-assistant-vs-hiring-employee-cost-comparison": {
+      "theme": "cost-comparison",
+      "title": "AI Assistant vs Hiring an Employee: Complete Cost Comparison"
+    },
+    "ai-automation-agency-pricing-what-to-expect": {
+      "theme": "cost-comparison",
+      "title": "AI Automation Agency Pricing: What to Expect and How to Budget"
+    },
+    "ai-automation-chiropractic-offices-complete-guide": {
+      "theme": "chiropractic",
+      "title": "AI Automation for Chiropractic Offices: The Complete Guide to Saving 20+ Hours Per Week"
+    },
+    "ai-automation-for-accounting-firms": {
+      "theme": "accounting",
+      "title": "AI Automation for Accounting Firms: Reclaim Hours and Grow Your Practice"
+    },
+    "ai-automation-for-hvac-companies": {
+      "theme": "hvac",
+      "title": "AI Automation for HVAC Companies: From Missed Calls to Booked Jobs"
+    },
+    "ai-automation-for-small-business-2026": {
+      "theme": "small-business",
+      "title": "AI Automation for Small Business in 2026: What's Coming and How to Prepare"
+    },
+    "ai-automation-implementation-partner": {
+      "theme": "business-automation",
+      "title": "How to Choose the Right AI Automation Implementation Partner"
+    },
+    "ai-automation-roofing-companies-lead-management": {
+      "theme": "roofing",
+      "title": "AI Automation for Roofing Companies: A Complete Guide to Lead Management"
+    },
+    "ai-calling-system-for-sales-teams-setup-guide": {
+      "theme": "voice-ai",
+      "title": "AI Calling System for Sales Teams: The Complete Setup Guide"
+    },
+    "ai-chatbot-for-ecommerce-customer-support": {
+      "theme": "ecommerce",
+      "title": "AI Chatbot for Ecommerce Customer Support: Reduce Tickets, Boost Sales, and Scale Without Hiring"
+    },
+    "ai-chatbot-for-real-estate-property-listings": {
+      "theme": "real-estate",
+      "title": "AI Chatbot for Real Estate Property Listings: Convert Browsers Into Buyers"
+    },
+    "ai-chatbot-for-whatsapp-business-complete-guide": {
+      "theme": "whatsapp",
+      "title": "AI Chatbot for WhatsApp Business: The Complete Guide for 2025"
+    },
+    "ai-chatbot-vs-live-chat-which-converts-better": {
+      "theme": "cost-comparison",
+      "title": "AI Chatbot vs Live Chat: Which Converts Better?"
+    },
+    "ai-cold-calling-software-best-tools-strategies": {
+      "theme": "voice-ai",
+      "title": "AI Cold Calling Software: Best Tools and Strategies That Actually Work in 2025"
+    },
+    "ai-for-car-dealership-lead-follow-up": {
+      "theme": "car-dealership",
+      "title": "AI for Car Dealership Lead Follow-Up: Turn Every Inquiry Into a Test Drive"
+    },
+    "ai-for-contractors-estimates-scheduling": {
+      "theme": "contractor",
+      "title": "AI for Contractors: Automate Estimates and Scheduling"
+    },
+    "ai-for-insurance-agencies-lead-follow-up": {
+      "theme": "insurance",
+      "title": "AI for Insurance Agencies: How to Automate Lead Follow-Up and Close More Policies"
+    },
+    "ai-for-mortgage-brokers-lead-qualification": {
+      "theme": "mortgage",
+      "title": "AI for Mortgage Brokers: Automate Lead Qualification and Close More Loans"
+    },
+    "ai-for-pest-control-companies-scheduling": {
+      "theme": "pest-control",
+      "title": "AI for Pest Control Companies: Automate Scheduling and Never Lose a Lead"
+    },
+    "ai-for-real-estate-agents-automate-lead-pipeline": {
+      "theme": "real-estate",
+      "title": "AI for Real Estate Agents: Automate Your Lead Pipeline in 2025"
+    },
+    "ai-for-real-estate-investors-lead-generation": {
+      "theme": "real-estate-investor",
+      "title": "AI for Real Estate Investors: How to Generate and Convert More Leads"
+    },
+    "ai-for-recruiting-agencies-candidate-screening": {
+      "theme": "recruiting",
+      "title": "AI for Recruiting Agencies: Automate Candidate Screening and Place Faster"
+    },
+    "ai-for-trucking-companies-dispatch-automation": {
+      "theme": "trucking",
+      "title": "AI for Trucking Companies: How Dispatch Automation Cuts Costs and Fills More Loads"
+    },
+    "ai-lead-follow-up-system-never-lose-lead": {
+      "theme": "lead-generation",
+      "title": "AI Lead Follow-Up System: How to Never Lose Another Lead Again"
+    },
+    "ai-lead-management-for-roofing-contractors": {
+      "theme": "roofing",
+      "title": "AI Lead Management for Roofing Contractors: Close More Jobs, Chase Fewer Leads"
+    },
+    "ai-phone-system-for-plumbing-companies": {
+      "theme": "plumbing",
+      "title": "AI Phone System for Plumbing Companies: Answer Every Call, Book Every Job"
+    },
+    "ai-receptionist-for-dental-offices": {
+      "theme": "dental",
+      "title": "AI Receptionist for Dental Offices: Reduce No-Shows, Fill Your Schedule, and Free Your Front Desk"
+    },
+    "ai-receptionist-for-veterinary-clinics": {
+      "theme": "veterinary",
+      "title": "AI Receptionist for Veterinary Clinics: Never Miss a Pet Emergency Again"
+    },
+    "ai-that-actually-does-tasks-not-just-answers": {
+      "theme": "ai-assistant",
+      "title": "AI That Actually Does Tasks (Not Just Answers Questions): The Future of Business Automation"
+    },
+    "ai-that-actually-does-work-not-just-talks": {
+      "theme": "ai-general",
+      "title": "AI That Actually Does Work (Not Just Talks About It)"
+    },
+    "ai-voice-agent-for-business-complete-guide": {
+      "theme": "ai-general",
+      "title": "AI Voice Agent for Business: The Complete Guide to Never Missing a Call Again"
+    },
+    "ai-voice-agent-setup-service": {
+      "theme": "ai-general",
+      "title": "AI Voice Agent Setup Service: What to Expect From Professional Installation"
+    },
+    "ai-voice-agent-vs-call-center-cost-comparison": {
+      "theme": "voice-ai",
+      "title": "AI Voice Agent vs Call Center: A Complete Cost Comparison for 2025"
+    },
+    "ai-vs-human-customer-service-which-is-better": {
+      "theme": "customer-service",
+      "title": "AI vs Human Customer Service: Which Is Better for Your Business?"
+    },
+    "ai-vs-virtual-assistant-complete-comparison-guide": {
+      "theme": "cost-comparison",
+      "title": "AI vs Human Virtual Assistant: Which is Right for Your Business?"
+    },
+    "auto-repair-shop-customer-communication-automation": {
+      "theme": "auto-repair",
+      "title": "Auto Repair Shop Customer Communication: How to Automate Service Reminders and Approvals"
+    },
+    "automate-customer-follow-up-without-losing-personal-touch": {
+      "theme": "email-automation",
+      "title": "How to Automate Customer Follow-Up Without Losing the Personal Touch"
+    },
+    "automated-lead-response-convert-leads-while-you-sleep": {
+      "theme": "lead-generation",
+      "title": "Automated Lead Response: How AI Converts Leads While You Sleep"
+    },
+    "automating-dental-practice-patient-communication": {
+      "theme": "dental-patient",
+      "title": "Automating Patient Communication for Dental Practices"
+    },
+    "automating-patient-appointment-reminders-dental-offices": {
+      "theme": "dental-patient",
+      "title": "Automating Patient Appointment Reminders for Dental Offices"
+    },
+    "best-ai-automation-agency-for-small-business": {
+      "theme": "ai-tools",
+      "title": "Best AI Automation Agency for Small Business: How to Choose the Right Partner in 2025"
+    },
+    "best-ai-phone-answering-service-for-business": {
+      "theme": "voice-ai",
+      "title": "Best AI Phone Answering Service for Business: Top Options Compared (2025)"
+    },
+    "best-ai-tools-for-property-management-companies": {
+      "theme": "property-management",
+      "title": "Best AI Tools for Property Management Companies in 2025"
+    },
+    "best-ai-tools-for-small-business-owners-2025": {
+      "theme": "ai-tools",
+      "title": "15 Best AI Tools for Small Business Owners in 2025"
+    },
+    "best-crm-for-hvac-companies-and-how-to-automate-it": {
+      "theme": "hvac",
+      "title": "Best CRM for HVAC Companies (And How to Automate It)"
+    },
+    "can-ai-replace-my-receptionist": {
+      "theme": "voice-ai",
+      "title": "Can AI Replace My Receptionist? An Honest Answer for Business Owners"
+    },
+    "chatgpt-for-business-why-its-not-enough": {
+      "theme": "business-automation",
+      "title": "ChatGPT for Business: Why It's Not Enough (And What Actually Works)"
+    },
+    "custom-ai-chatbot-development-services": {
+      "theme": "cost-comparison",
+      "title": "Custom AI Chatbot Development Services: What You Get vs. Off-the-Shelf Solutions"
+    },
+    "dental-practice-automation-guide-patient-communication": {
+      "theme": "dental-patient",
+      "title": "Dental Practice Automation: How to Handle Patient Communication Without Hiring More Staff"
+    },
+    "hidden-cost-of-manual-data-entry-small-business": {
+      "theme": "crm",
+      "title": "The Hidden Cost of Manual Data Entry for Small Businesses"
+    },
+    "hire-ai-agency-or-build-in-house": {
+      "theme": "cost-comparison",
+      "title": "Should I Hire an AI Agency or Build In-House? An Honest Comparison"
+    },
+    "hire-ai-automation-consultant": {
+      "theme": "business-automation",
+      "title": "Hire an AI Automation Consultant: What to Know Before You Sign"
+    },
+    "house-cleaning-service-booking-automation": {
+      "theme": "cleaning",
+      "title": "House Cleaning Services: How to Automate Booking, Reminders, and Client Retention"
+    },
+    "how-ai-assistants-save-small-businesses-20-hours-per-week": {
+      "theme": "ai-assistant",
+      "title": "How AI Assistants Save Small Businesses 20+ Hours Per Week"
+    },
+    "how-ai-helps-electricians-get-more-customers": {
+      "theme": "electrician",
+      "title": "How AI Helps Electricians Get More Customers and Book More Jobs"
+    },
+    "how-ai-is-transforming-the-real-estate-industry": {
+      "theme": "real-estate",
+      "title": "How AI Is Transforming the Real Estate Industry: From Lead Generation to Closing"
+    },
+    "how-cleaning-companies-use-ai-to-book-more-jobs": {
+      "theme": "cleaning",
+      "title": "How Cleaning Companies Use AI to Book More Jobs and Fill Every Schedule"
+    },
+    "how-fitness-studios-use-ai-to-reduce-no-shows": {
+      "theme": "fitness",
+      "title": "How Fitness Studios Use AI to Reduce No-Shows and Fill Every Class"
+    },
+    "how-insurance-agencies-automate-lead-follow-up": {
+      "theme": "insurance",
+      "title": "How Insurance Agencies Can Automate Lead Follow-Up and Quote Requests"
+    },
+    "how-much-does-ai-chatbot-cost-for-business": {
+      "theme": "chatbot",
+      "title": "How Much Does an AI Chatbot Cost for Business? Complete Pricing Breakdown (2025)"
+    },
+    "how-personal-injury-lawyers-automate-client-intake": {
+      "theme": "personal-injury",
+      "title": "How Personal Injury Lawyers Can Automate Client Intake"
+    },
+    "how-plumbers-automate-lead-follow-up-scheduling": {
+      "theme": "plumbing",
+      "title": "How Plumbing Companies Can Automate Lead Follow-Up and Scheduling"
+    },
+    "how-property-managers-automate-tenant-communication": {
+      "theme": "property-management",
+      "title": "How Property Managers Can Automate Tenant Communication"
+    },
+    "how-solar-companies-follow-up-leads-automatically": {
+      "theme": "solar",
+      "title": "How Solar Companies Can Follow Up With Leads Automatically"
+    },
+    "how-to-automate-appointment-booking-with-ai": {
+      "theme": "appointment",
+      "title": "How to Automate Appointment Booking With AI (Complete Guide)"
+    },
+    "how-to-automate-crm-data-entry": {
+      "theme": "crm",
+      "title": "How to Automate CRM Data Entry (And Never Update a Contact Manually Again)"
+    },
+    "how-to-automate-follow-up-messages-with-ai": {
+      "theme": "email-automation",
+      "title": "How to Automate Follow-Up Messages with AI (Complete Guide)"
+    },
+    "how-to-automate-invoice-creation-small-business": {
+      "theme": "invoice",
+      "title": "How to Automate Invoice Creation and Sending for Small Businesses"
+    },
+    "how-to-automate-sales-calls-with-ai": {
+      "theme": "business-automation",
+      "title": "How to Automate Sales Calls with AI: A Step-by-Step Guide for 2025"
+    },
+    "how-to-build-ai-sales-funnel": {
+      "theme": "sales-automation",
+      "title": "How to Build an AI Sales Funnel That Converts on Autopilot"
+    },
+    "how-to-generate-leads-with-ai-automation": {
+      "theme": "lead-generation",
+      "title": "How to Generate Leads With AI Automation (Practical Playbook)"
+    },
+    "how-to-reduce-customer-service-costs-with-ai": {
+      "theme": "customer-service",
+      "title": "How to Reduce Customer Service Costs With AI (Without Sacrificing Quality)"
+    },
+    "how-to-set-up-ai-business-assistant-step-by-step": {
+      "theme": "ai-general",
+      "title": "How to Set Up an AI Business Assistant (Step-by-Step Guide)"
+    },
+    "how-to-set-up-ai-phone-system-small-business": {
+      "theme": "voice-ai",
+      "title": "How to Set Up an AI Phone System for Your Small Business (Step-by-Step)"
+    },
+    "how-to-use-ai-to-qualify-sales-leads-automatically": {
+      "theme": "sales-automation",
+      "title": "How to Use AI to Qualify Sales Leads Automatically (Step-by-Step)"
+    },
+    "insurance-agency-client-retention-ai-automation": {
+      "theme": "insurance",
+      "title": "How AI Helps Insurance Agencies Retain Clients and Reduce Policy Churn"
+    },
+    "landscaping-company-scheduling-automation": {
+      "theme": "landscaping",
+      "title": "How Landscaping Companies Can Automate Scheduling and Customer Communication"
+    },
+    "lead-management-roofing-companies-complete-guide": {
+      "theme": "roofing",
+      "title": "Lead Management for Roofing Companies: A Complete Guide"
+    },
+    "med-spa-automation-appointments-follow-up": {
+      "theme": "medical-spa",
+      "title": "Med Spa Automation: How AI Handles Appointments, Follow-Ups, and Product Reminders"
+    },
+    "outsource-ai-chatbot-development": {
+      "theme": "chatbot",
+      "title": "Outsource AI Chatbot Development: Why Smart Companies Don't Build From Scratch"
+    },
+    "personal-trainer-automation-scheduling-client-retention": {
+      "theme": "fitness",
+      "title": "Personal Trainer Automation: AI for Scheduling, Lead Follow-Up, and Client Retention"
+    },
+    "restaurant-automation-ai-phone-ordering": {
+      "theme": "restaurant",
+      "title": "Restaurant Automation: How AI Phone Ordering Increases Revenue and Reduces Mistakes"
+    },
+    "signs-your-business-needs-automation": {
+      "theme": "small-business",
+      "title": "12 Signs Your Small Business Needs Automation (And What to Automate First)"
+    },
+    "veterinary-clinic-appointment-automation": {
+      "theme": "veterinary",
+      "title": "Veterinary Clinic Automation: AI for Appointment Reminders, Recalls, and Client Communication"
+    },
+    "veterinary-clinic-online-booking-reduce-phone-calls": {
+      "theme": "veterinary",
+      "title": "How Veterinary Clinics Reduce Phone Call Volume With AI Booking Assistants"
+    },
+    "voice-ai-for-appointment-booking-how-it-works": {
+      "theme": "voice-ai",
+      "title": "Voice AI for Appointment Booking: How It Works (And Why It Converts Better)"
+    },
+    "what-does-ai-chatbot-cost-complete-pricing-guide": {
+      "theme": "chatbot",
+      "title": "What Does an AI Chatbot Actually Cost? Complete Pricing Guide 2025"
+    },
+    "what-is-an-ai-agent-and-how-does-it-work": {
+      "theme": "ai-general",
+      "title": "What Is an AI Agent and How Does It Work? A Plain-English Guide"
+    },
+    "what-is-voice-ai-and-how-businesses-use-it": {
+      "theme": "voice-ai",
+      "title": "What Is Voice AI and How Are Businesses Using It in 2025?"
+    },
+    "white-label-ai-voice-agent-for-agencies": {
+      "theme": "ai-general",
+      "title": "White Label AI Voice Agent for Agencies: Add a High-Margin Revenue Stream"
+    },
+    "why-your-leads-go-cold-how-to-fix-automatically": {
+      "theme": "lead-generation",
+      "title": "Why Your Leads Go Cold (And How to Fix It Automatically)"
+    },
+    "zapier-vs-virtual-assistant-vs-ai-automation": {
+      "theme": "cost-comparison",
+      "title": "Zapier vs Virtual Assistant vs AI Automation: Which Should You Choose in 2025?"
+    }
+  },
+  "postsByTheme": {
+    "ai-assistant": [
+      {
+        "slug": "10-small-business-tasks-automate-today",
+        "title": "10 Small Business Tasks You Should Automate Today",
+        "file": "10-small-business-tasks-automate-today.mdx"
+      },
+      {
+        "slug": "ai-that-actually-does-tasks-not-just-answers",
+        "title": "AI That Actually Does Tasks (Not Just Answers Questions): The Future of Business Automation",
+        "file": "ai-that-actually-does-tasks-not-just-answers.mdx"
+      },
+      {
+        "slug": "how-ai-assistants-save-small-businesses-20-hours-per-week",
+        "title": "How AI Assistants Save Small Businesses 20+ Hours Per Week",
+        "file": "how-ai-assistants-save-small-businesses-20-hours-per-week.mdx"
+      }
+    ],
+    "customer-service": [
+      {
+        "slug": "24-7-customer-support-without-night-staff",
+        "title": "24/7 Customer Support Without Hiring Night Staff",
+        "file": "24-7-customer-support-without-night-staff.mdx"
+      },
+      {
+        "slug": "5-ways-ai-handles-customer-service-24-7",
+        "title": "5 Ways AI Handles Customer Service 24/7 (Without Hiring Night Staff)",
+        "file": "5-ways-ai-handles-customer-service-24-7.mdx"
+      },
+      {
+        "slug": "ai-vs-human-customer-service-which-is-better",
+        "title": "AI vs Human Customer Service: Which Is Better for Your Business?",
+        "file": "ai-vs-human-customer-service-which-is-better.mdx"
+      },
+      {
+        "slug": "how-to-reduce-customer-service-costs-with-ai",
+        "title": "How to Reduce Customer Service Costs With AI (Without Sacrificing Quality)",
+        "file": "how-to-reduce-customer-service-costs-with-ai.mdx"
+      }
+    ],
+    "accounting": [
+      {
+        "slug": "accounting-firm-automation-client-communication",
+        "title": "Accounting Firm Automation: AI for Client Communication, Document Collection, and Lead Follow-Up",
+        "file": "accounting-firm-automation-client-communication.mdx"
+      },
+      {
+        "slug": "ai-automation-for-accounting-firms",
+        "title": "AI Automation for Accounting Firms: Reclaim Hours and Grow Your Practice",
+        "file": "ai-automation-for-accounting-firms.mdx"
+      }
+    ],
+    "law-firm": [
+      {
+        "slug": "ai-answering-service-for-law-firms",
+        "title": "AI Answering Service for Law Firms: Capture Every Client Without Hiring More Staff",
+        "file": "ai-answering-service-for-law-firms.mdx"
+      }
+    ],
+    "salon": [
+      {
+        "slug": "ai-appointment-reminder-system-for-salons",
+        "title": "AI Appointment Reminder System for Salons: Cut No-Shows and Fill Your Books",
+        "file": "ai-appointment-reminder-system-for-salons.mdx"
+      }
+    ],
+    "appointment": [
+      {
+        "slug": "ai-appointment-scheduling-never-miss-booking",
+        "title": "AI Appointment Scheduling: Never Miss a Booking Again",
+        "file": "ai-appointment-scheduling-never-miss-booking.mdx"
+      },
+      {
+        "slug": "how-to-automate-appointment-booking-with-ai",
+        "title": "How to Automate Appointment Booking With AI (Complete Guide)",
+        "file": "how-to-automate-appointment-booking-with-ai.mdx"
+      }
+    ],
+    "real-estate-agent": [
+      {
+        "slug": "ai-appointment-setter-for-real-estate",
+        "title": "AI Appointment Setter for Real Estate: Book More Showings on Autopilot",
+        "file": "ai-appointment-setter-for-real-estate.mdx"
+      }
+    ],
+    "cost-comparison": [
+      {
+        "slug": "ai-assistant-vs-hiring-employee-cost-comparison",
+        "title": "AI Assistant vs Hiring an Employee: Complete Cost Comparison",
+        "file": "ai-assistant-vs-hiring-employee-cost-comparison.mdx"
+      },
+      {
+        "slug": "ai-automation-agency-pricing-what-to-expect",
+        "title": "AI Automation Agency Pricing: What to Expect and How to Budget",
+        "file": "ai-automation-agency-pricing-what-to-expect.mdx"
+      },
+      {
+        "slug": "ai-chatbot-vs-live-chat-which-converts-better",
+        "title": "AI Chatbot vs Live Chat: Which Converts Better?",
+        "file": "ai-chatbot-vs-live-chat-which-converts-better.mdx"
+      },
+      {
+        "slug": "ai-vs-virtual-assistant-complete-comparison-guide",
+        "title": "AI vs Human Virtual Assistant: Which is Right for Your Business?",
+        "file": "ai-vs-virtual-assistant-complete-comparison-guide.mdx"
+      },
+      {
+        "slug": "custom-ai-chatbot-development-services",
+        "title": "Custom AI Chatbot Development Services: What You Get vs. Off-the-Shelf Solutions",
+        "file": "custom-ai-chatbot-development-services.mdx"
+      },
+      {
+        "slug": "hire-ai-agency-or-build-in-house",
+        "title": "Should I Hire an AI Agency or Build In-House? An Honest Comparison",
+        "file": "hire-ai-agency-or-build-in-house.mdx"
+      },
+      {
+        "slug": "zapier-vs-virtual-assistant-vs-ai-automation",
+        "title": "Zapier vs Virtual Assistant vs AI Automation: Which Should You Choose in 2025?",
+        "file": "zapier-vs-virtual-assistant-vs-ai-automation.mdx"
+      }
+    ],
+    "chiropractic": [
+      {
+        "slug": "ai-automation-chiropractic-offices-complete-guide",
+        "title": "AI Automation for Chiropractic Offices: The Complete Guide to Saving 20+ Hours Per Week",
+        "file": "ai-automation-chiropractic-offices-complete-guide.mdx"
+      }
+    ],
+    "hvac": [
+      {
+        "slug": "ai-automation-for-hvac-companies",
+        "title": "AI Automation for HVAC Companies: From Missed Calls to Booked Jobs",
+        "file": "ai-automation-for-hvac-companies.mdx"
+      },
+      {
+        "slug": "best-crm-for-hvac-companies-and-how-to-automate-it",
+        "title": "Best CRM for HVAC Companies (And How to Automate It)",
+        "file": "best-crm-for-hvac-companies-and-how-to-automate-it.mdx"
+      }
+    ],
+    "small-business": [
+      {
+        "slug": "ai-automation-for-small-business-2026",
+        "title": "AI Automation for Small Business in 2026: What's Coming and How to Prepare",
+        "file": "ai-automation-for-small-business-2026.mdx"
+      },
+      {
+        "slug": "signs-your-business-needs-automation",
+        "title": "12 Signs Your Small Business Needs Automation (And What to Automate First)",
+        "file": "signs-your-business-needs-automation.mdx"
+      }
+    ],
+    "business-automation": [
+      {
+        "slug": "ai-automation-implementation-partner",
+        "title": "How to Choose the Right AI Automation Implementation Partner",
+        "file": "ai-automation-implementation-partner.mdx"
+      },
+      {
+        "slug": "chatgpt-for-business-why-its-not-enough",
+        "title": "ChatGPT for Business: Why It's Not Enough (And What Actually Works)",
+        "file": "chatgpt-for-business-why-its-not-enough.mdx"
+      },
+      {
+        "slug": "hire-ai-automation-consultant",
+        "title": "Hire an AI Automation Consultant: What to Know Before You Sign",
+        "file": "hire-ai-automation-consultant.mdx"
+      },
+      {
+        "slug": "how-to-automate-sales-calls-with-ai",
+        "title": "How to Automate Sales Calls with AI: A Step-by-Step Guide for 2025",
+        "file": "how-to-automate-sales-calls-with-ai.mdx"
+      }
+    ],
+    "roofing": [
+      {
+        "slug": "ai-automation-roofing-companies-lead-management",
+        "title": "AI Automation for Roofing Companies: A Complete Guide to Lead Management",
+        "file": "ai-automation-roofing-companies-lead-management.mdx"
+      },
+      {
+        "slug": "ai-lead-management-for-roofing-contractors",
+        "title": "AI Lead Management for Roofing Contractors: Close More Jobs, Chase Fewer Leads",
+        "file": "ai-lead-management-for-roofing-contractors.mdx"
+      },
+      {
+        "slug": "lead-management-roofing-companies-complete-guide",
+        "title": "Lead Management for Roofing Companies: A Complete Guide",
+        "file": "lead-management-roofing-companies-complete-guide.mdx"
+      }
+    ],
+    "voice-ai": [
+      {
+        "slug": "ai-calling-system-for-sales-teams-setup-guide",
+        "title": "AI Calling System for Sales Teams: The Complete Setup Guide",
+        "file": "ai-calling-system-for-sales-teams-setup-guide.mdx"
+      },
+      {
+        "slug": "ai-cold-calling-software-best-tools-strategies",
+        "title": "AI Cold Calling Software: Best Tools and Strategies That Actually Work in 2025",
+        "file": "ai-cold-calling-software-best-tools-strategies.mdx"
+      },
+      {
+        "slug": "ai-voice-agent-vs-call-center-cost-comparison",
+        "title": "AI Voice Agent vs Call Center: A Complete Cost Comparison for 2025",
+        "file": "ai-voice-agent-vs-call-center-cost-comparison.mdx"
+      },
+      {
+        "slug": "best-ai-phone-answering-service-for-business",
+        "title": "Best AI Phone Answering Service for Business: Top Options Compared (2025)",
+        "file": "best-ai-phone-answering-service-for-business.mdx"
+      },
+      {
+        "slug": "can-ai-replace-my-receptionist",
+        "title": "Can AI Replace My Receptionist? An Honest Answer for Business Owners",
+        "file": "can-ai-replace-my-receptionist.mdx"
+      },
+      {
+        "slug": "how-to-set-up-ai-phone-system-small-business",
+        "title": "How to Set Up an AI Phone System for Your Small Business (Step-by-Step)",
+        "file": "how-to-set-up-ai-phone-system-small-business.mdx"
+      },
+      {
+        "slug": "voice-ai-for-appointment-booking-how-it-works",
+        "title": "Voice AI for Appointment Booking: How It Works (And Why It Converts Better)",
+        "file": "voice-ai-for-appointment-booking-how-it-works.mdx"
+      },
+      {
+        "slug": "what-is-voice-ai-and-how-businesses-use-it",
+        "title": "What Is Voice AI and How Are Businesses Using It in 2025?",
+        "file": "what-is-voice-ai-and-how-businesses-use-it.mdx"
+      }
+    ],
+    "ecommerce": [
+      {
+        "slug": "ai-chatbot-for-ecommerce-customer-support",
+        "title": "AI Chatbot for Ecommerce Customer Support: Reduce Tickets, Boost Sales, and Scale Without Hiring",
+        "file": "ai-chatbot-for-ecommerce-customer-support.mdx"
+      }
+    ],
+    "real-estate": [
+      {
+        "slug": "ai-chatbot-for-real-estate-property-listings",
+        "title": "AI Chatbot for Real Estate Property Listings: Convert Browsers Into Buyers",
+        "file": "ai-chatbot-for-real-estate-property-listings.mdx"
+      },
+      {
+        "slug": "ai-for-real-estate-agents-automate-lead-pipeline",
+        "title": "AI for Real Estate Agents: Automate Your Lead Pipeline in 2025",
+        "file": "ai-for-real-estate-agents-automate-lead-pipeline.mdx"
+      },
+      {
+        "slug": "how-ai-is-transforming-the-real-estate-industry",
+        "title": "How AI Is Transforming the Real Estate Industry: From Lead Generation to Closing",
+        "file": "how-ai-is-transforming-the-real-estate-industry.mdx"
+      }
+    ],
+    "whatsapp": [
+      {
+        "slug": "ai-chatbot-for-whatsapp-business-complete-guide",
+        "title": "AI Chatbot for WhatsApp Business: The Complete Guide for 2025",
+        "file": "ai-chatbot-for-whatsapp-business-complete-guide.mdx"
+      }
+    ],
+    "car-dealership": [
+      {
+        "slug": "ai-for-car-dealership-lead-follow-up",
+        "title": "AI for Car Dealership Lead Follow-Up: Turn Every Inquiry Into a Test Drive",
+        "file": "ai-for-car-dealership-lead-follow-up.mdx"
+      }
+    ],
+    "contractor": [
+      {
+        "slug": "ai-for-contractors-estimates-scheduling",
+        "title": "AI for Contractors: Automate Estimates and Scheduling",
+        "file": "ai-for-contractors-estimates-scheduling.mdx"
+      }
+    ],
+    "insurance": [
+      {
+        "slug": "ai-for-insurance-agencies-lead-follow-up",
+        "title": "AI for Insurance Agencies: How to Automate Lead Follow-Up and Close More Policies",
+        "file": "ai-for-insurance-agencies-lead-follow-up.mdx"
+      },
+      {
+        "slug": "how-insurance-agencies-automate-lead-follow-up",
+        "title": "How Insurance Agencies Can Automate Lead Follow-Up and Quote Requests",
+        "file": "how-insurance-agencies-automate-lead-follow-up.mdx"
+      },
+      {
+        "slug": "insurance-agency-client-retention-ai-automation",
+        "title": "How AI Helps Insurance Agencies Retain Clients and Reduce Policy Churn",
+        "file": "insurance-agency-client-retention-ai-automation.mdx"
+      }
+    ],
+    "mortgage": [
+      {
+        "slug": "ai-for-mortgage-brokers-lead-qualification",
+        "title": "AI for Mortgage Brokers: Automate Lead Qualification and Close More Loans",
+        "file": "ai-for-mortgage-brokers-lead-qualification.mdx"
+      }
+    ],
+    "pest-control": [
+      {
+        "slug": "ai-for-pest-control-companies-scheduling",
+        "title": "AI for Pest Control Companies: Automate Scheduling and Never Lose a Lead",
+        "file": "ai-for-pest-control-companies-scheduling.mdx"
+      }
+    ],
+    "real-estate-investor": [
+      {
+        "slug": "ai-for-real-estate-investors-lead-generation",
+        "title": "AI for Real Estate Investors: How to Generate and Convert More Leads",
+        "file": "ai-for-real-estate-investors-lead-generation.mdx"
+      }
+    ],
+    "recruiting": [
+      {
+        "slug": "ai-for-recruiting-agencies-candidate-screening",
+        "title": "AI for Recruiting Agencies: Automate Candidate Screening and Place Faster",
+        "file": "ai-for-recruiting-agencies-candidate-screening.mdx"
+      }
+    ],
+    "trucking": [
+      {
+        "slug": "ai-for-trucking-companies-dispatch-automation",
+        "title": "AI for Trucking Companies: How Dispatch Automation Cuts Costs and Fills More Loads",
+        "file": "ai-for-trucking-companies-dispatch-automation.mdx"
+      }
+    ],
+    "lead-generation": [
+      {
+        "slug": "ai-lead-follow-up-system-never-lose-lead",
+        "title": "AI Lead Follow-Up System: How to Never Lose Another Lead Again",
+        "file": "ai-lead-follow-up-system-never-lose-lead.mdx"
+      },
+      {
+        "slug": "automated-lead-response-convert-leads-while-you-sleep",
+        "title": "Automated Lead Response: How AI Converts Leads While You Sleep",
+        "file": "automated-lead-response-convert-leads-while-you-sleep.mdx"
+      },
+      {
+        "slug": "how-to-generate-leads-with-ai-automation",
+        "title": "How to Generate Leads With AI Automation (Practical Playbook)",
+        "file": "how-to-generate-leads-with-ai-automation.mdx"
+      },
+      {
+        "slug": "why-your-leads-go-cold-how-to-fix-automatically",
+        "title": "Why Your Leads Go Cold (And How to Fix It Automatically)",
+        "file": "why-your-leads-go-cold-how-to-fix-automatically.mdx"
+      }
+    ],
+    "plumbing": [
+      {
+        "slug": "ai-phone-system-for-plumbing-companies",
+        "title": "AI Phone System for Plumbing Companies: Answer Every Call, Book Every Job",
+        "file": "ai-phone-system-for-plumbing-companies.mdx"
+      },
+      {
+        "slug": "how-plumbers-automate-lead-follow-up-scheduling",
+        "title": "How Plumbing Companies Can Automate Lead Follow-Up and Scheduling",
+        "file": "how-plumbers-automate-lead-follow-up-scheduling.mdx"
+      }
+    ],
+    "dental": [
+      {
+        "slug": "ai-receptionist-for-dental-offices",
+        "title": "AI Receptionist for Dental Offices: Reduce No-Shows, Fill Your Schedule, and Free Your Front Desk",
+        "file": "ai-receptionist-for-dental-offices.mdx"
+      }
+    ],
+    "veterinary": [
+      {
+        "slug": "ai-receptionist-for-veterinary-clinics",
+        "title": "AI Receptionist for Veterinary Clinics: Never Miss a Pet Emergency Again",
+        "file": "ai-receptionist-for-veterinary-clinics.mdx"
+      },
+      {
+        "slug": "veterinary-clinic-appointment-automation",
+        "title": "Veterinary Clinic Automation: AI for Appointment Reminders, Recalls, and Client Communication",
+        "file": "veterinary-clinic-appointment-automation.mdx"
+      },
+      {
+        "slug": "veterinary-clinic-online-booking-reduce-phone-calls",
+        "title": "How Veterinary Clinics Reduce Phone Call Volume With AI Booking Assistants",
+        "file": "veterinary-clinic-online-booking-reduce-phone-calls.mdx"
+      }
+    ],
+    "ai-general": [
+      {
+        "slug": "ai-that-actually-does-work-not-just-talks",
+        "title": "AI That Actually Does Work (Not Just Talks About It)",
+        "file": "ai-that-actually-does-work-not-just-talks.mdx"
+      },
+      {
+        "slug": "ai-voice-agent-for-business-complete-guide",
+        "title": "AI Voice Agent for Business: The Complete Guide to Never Missing a Call Again",
+        "file": "ai-voice-agent-for-business-complete-guide.mdx"
+      },
+      {
+        "slug": "ai-voice-agent-setup-service",
+        "title": "AI Voice Agent Setup Service: What to Expect From Professional Installation",
+        "file": "ai-voice-agent-setup-service.mdx"
+      },
+      {
+        "slug": "how-to-set-up-ai-business-assistant-step-by-step",
+        "title": "How to Set Up an AI Business Assistant (Step-by-Step Guide)",
+        "file": "how-to-set-up-ai-business-assistant-step-by-step.mdx"
+      },
+      {
+        "slug": "what-is-an-ai-agent-and-how-does-it-work",
+        "title": "What Is an AI Agent and How Does It Work? A Plain-English Guide",
+        "file": "what-is-an-ai-agent-and-how-does-it-work.mdx"
+      },
+      {
+        "slug": "white-label-ai-voice-agent-for-agencies",
+        "title": "White Label AI Voice Agent for Agencies: Add a High-Margin Revenue Stream",
+        "file": "white-label-ai-voice-agent-for-agencies.mdx"
+      }
+    ],
+    "auto-repair": [
+      {
+        "slug": "auto-repair-shop-customer-communication-automation",
+        "title": "Auto Repair Shop Customer Communication: How to Automate Service Reminders and Approvals",
+        "file": "auto-repair-shop-customer-communication-automation.mdx"
+      }
+    ],
+    "email-automation": [
+      {
+        "slug": "automate-customer-follow-up-without-losing-personal-touch",
+        "title": "How to Automate Customer Follow-Up Without Losing the Personal Touch",
+        "file": "automate-customer-follow-up-without-losing-personal-touch.mdx"
+      },
+      {
+        "slug": "how-to-automate-follow-up-messages-with-ai",
+        "title": "How to Automate Follow-Up Messages with AI (Complete Guide)",
+        "file": "how-to-automate-follow-up-messages-with-ai.mdx"
+      }
+    ],
+    "dental-patient": [
+      {
+        "slug": "automating-dental-practice-patient-communication",
+        "title": "Automating Patient Communication for Dental Practices",
+        "file": "automating-dental-practice-patient-communication.mdx"
+      },
+      {
+        "slug": "automating-patient-appointment-reminders-dental-offices",
+        "title": "Automating Patient Appointment Reminders for Dental Offices",
+        "file": "automating-patient-appointment-reminders-dental-offices.mdx"
+      },
+      {
+        "slug": "dental-practice-automation-guide-patient-communication",
+        "title": "Dental Practice Automation: How to Handle Patient Communication Without Hiring More Staff",
+        "file": "dental-practice-automation-guide-patient-communication.mdx"
+      }
+    ],
+    "ai-tools": [
+      {
+        "slug": "best-ai-automation-agency-for-small-business",
+        "title": "Best AI Automation Agency for Small Business: How to Choose the Right Partner in 2025",
+        "file": "best-ai-automation-agency-for-small-business.mdx"
+      },
+      {
+        "slug": "best-ai-tools-for-small-business-owners-2025",
+        "title": "15 Best AI Tools for Small Business Owners in 2025",
+        "file": "best-ai-tools-for-small-business-owners-2025.mdx"
+      }
+    ],
+    "property-management": [
+      {
+        "slug": "best-ai-tools-for-property-management-companies",
+        "title": "Best AI Tools for Property Management Companies in 2025",
+        "file": "best-ai-tools-for-property-management-companies.mdx"
+      },
+      {
+        "slug": "how-property-managers-automate-tenant-communication",
+        "title": "How Property Managers Can Automate Tenant Communication",
+        "file": "how-property-managers-automate-tenant-communication.mdx"
+      }
+    ],
+    "crm": [
+      {
+        "slug": "hidden-cost-of-manual-data-entry-small-business",
+        "title": "The Hidden Cost of Manual Data Entry for Small Businesses",
+        "file": "hidden-cost-of-manual-data-entry-small-business.mdx"
+      },
+      {
+        "slug": "how-to-automate-crm-data-entry",
+        "title": "How to Automate CRM Data Entry (And Never Update a Contact Manually Again)",
+        "file": "how-to-automate-crm-data-entry.mdx"
+      }
+    ],
+    "cleaning": [
+      {
+        "slug": "house-cleaning-service-booking-automation",
+        "title": "House Cleaning Services: How to Automate Booking, Reminders, and Client Retention",
+        "file": "house-cleaning-service-booking-automation.mdx"
+      },
+      {
+        "slug": "how-cleaning-companies-use-ai-to-book-more-jobs",
+        "title": "How Cleaning Companies Use AI to Book More Jobs and Fill Every Schedule",
+        "file": "how-cleaning-companies-use-ai-to-book-more-jobs.mdx"
+      }
+    ],
+    "electrician": [
+      {
+        "slug": "how-ai-helps-electricians-get-more-customers",
+        "title": "How AI Helps Electricians Get More Customers and Book More Jobs",
+        "file": "how-ai-helps-electricians-get-more-customers.mdx"
+      }
+    ],
+    "fitness": [
+      {
+        "slug": "how-fitness-studios-use-ai-to-reduce-no-shows",
+        "title": "How Fitness Studios Use AI to Reduce No-Shows and Fill Every Class",
+        "file": "how-fitness-studios-use-ai-to-reduce-no-shows.mdx"
+      },
+      {
+        "slug": "personal-trainer-automation-scheduling-client-retention",
+        "title": "Personal Trainer Automation: AI for Scheduling, Lead Follow-Up, and Client Retention",
+        "file": "personal-trainer-automation-scheduling-client-retention.mdx"
+      }
+    ],
+    "chatbot": [
+      {
+        "slug": "how-much-does-ai-chatbot-cost-for-business",
+        "title": "How Much Does an AI Chatbot Cost for Business? Complete Pricing Breakdown (2025)",
+        "file": "how-much-does-ai-chatbot-cost-for-business.mdx"
+      },
+      {
+        "slug": "outsource-ai-chatbot-development",
+        "title": "Outsource AI Chatbot Development: Why Smart Companies Don't Build From Scratch",
+        "file": "outsource-ai-chatbot-development.mdx"
+      },
+      {
+        "slug": "what-does-ai-chatbot-cost-complete-pricing-guide",
+        "title": "What Does an AI Chatbot Actually Cost? Complete Pricing Guide 2025",
+        "file": "what-does-ai-chatbot-cost-complete-pricing-guide.mdx"
+      }
+    ],
+    "personal-injury": [
+      {
+        "slug": "how-personal-injury-lawyers-automate-client-intake",
+        "title": "How Personal Injury Lawyers Can Automate Client Intake",
+        "file": "how-personal-injury-lawyers-automate-client-intake.mdx"
+      }
+    ],
+    "solar": [
+      {
+        "slug": "how-solar-companies-follow-up-leads-automatically",
+        "title": "How Solar Companies Can Follow Up With Leads Automatically",
+        "file": "how-solar-companies-follow-up-leads-automatically.mdx"
+      }
+    ],
+    "invoice": [
+      {
+        "slug": "how-to-automate-invoice-creation-small-business",
+        "title": "How to Automate Invoice Creation and Sending for Small Businesses",
+        "file": "how-to-automate-invoice-creation-small-business.mdx"
+      }
+    ],
+    "sales-automation": [
+      {
+        "slug": "how-to-build-ai-sales-funnel",
+        "title": "How to Build an AI Sales Funnel That Converts on Autopilot",
+        "file": "how-to-build-ai-sales-funnel.mdx"
+      },
+      {
+        "slug": "how-to-use-ai-to-qualify-sales-leads-automatically",
+        "title": "How to Use AI to Qualify Sales Leads Automatically (Step-by-Step)",
+        "file": "how-to-use-ai-to-qualify-sales-leads-automatically.mdx"
+      }
+    ],
+    "landscaping": [
+      {
+        "slug": "landscaping-company-scheduling-automation",
+        "title": "How Landscaping Companies Can Automate Scheduling and Customer Communication",
+        "file": "landscaping-company-scheduling-automation.mdx"
+      }
+    ],
+    "medical-spa": [
+      {
+        "slug": "med-spa-automation-appointments-follow-up",
+        "title": "Med Spa Automation: How AI Handles Appointments, Follow-Ups, and Product Reminders",
+        "file": "med-spa-automation-appointments-follow-up.mdx"
+      }
+    ],
+    "restaurant": [
+      {
+        "slug": "restaurant-automation-ai-phone-ordering",
+        "title": "Restaurant Automation: How AI Phone Ordering Increases Revenue and Reduces Mistakes",
+        "file": "restaurant-automation-ai-phone-ordering.mdx"
+      }
+    ]
+  },
+  "themeQueries": {
+    "real-estate": "real estate modern house property",
+    "real-estate-agent": "real estate agent client meeting",
+    "real-estate-investor": "real estate investment property",
+    "dental": "dental office modern dentist",
+    "dental-patient": "dental patient appointment",
+    "veterinary": "veterinary clinic pets",
+    "medical-spa": "medical spa wellness beauty",
+    "chiropractic": "chiropractic health wellness clinic",
+    "fitness": "fitness studio gym training",
+    "hvac": "hvac technician heating cooling",
+    "plumbing": "plumber plumbing service repair",
+    "electrician": "electrician electrical work",
+    "roofing": "roofing contractor roof construction",
+    "contractor": "contractor construction home improvement",
+    "pest-control": "pest control service home",
+    "cleaning": "cleaning service professional house",
+    "landscaping": "landscaping garden outdoor maintenance",
+    "solar": "solar panels renewable energy",
+    "insurance": "insurance agent client office",
+    "law-firm": "law firm lawyer office legal",
+    "accounting": "accounting finance office professional",
+    "property-management": "property management apartment building",
+    "auto-repair": "auto repair mechanic shop",
+    "car-dealership": "car dealership automotive showroom",
+    "trucking": "trucking logistics dispatch fleet",
+    "restaurant": "restaurant food service hospitality",
+    "salon": "hair salon beauty appointment",
+    "ecommerce": "ecommerce online shopping business",
+    "recruiting": "recruiting hiring interview office",
+    "mortgage": "mortgage broker home buying",
+    "personal-injury": "personal injury lawyer consultation",
+    "voice-ai": "phone call business technology AI",
+    "chatbot": "chatbot customer support messaging technology",
+    "customer-service": "customer service support team headset",
+    "lead-generation": "sales leads business growth chart",
+    "sales-automation": "sales team technology business meeting",
+    "crm": "CRM software business dashboard",
+    "data-entry": "data entry office computer work",
+    "appointment": "calendar appointment scheduling booking",
+    "email-automation": "email marketing inbox business",
+    "invoice": "invoice billing payment business",
+    "business-automation": "business automation technology office",
+    "ai-general": "artificial intelligence technology modern",
+    "ai-tools": "AI tools software business productivity",
+    "ai-assistant": "AI assistant robot technology helper",
+    "cost-comparison": "budget comparison business calculator",
+    "small-business": "small business owner entrepreneur",
+    "whatsapp": "whatsapp messaging business mobile phone"
+  }
+}
