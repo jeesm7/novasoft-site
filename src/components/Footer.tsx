@@ -65,6 +65,7 @@ export default function Footer() {
               <li><a href="https://openclawconsultant.com" className="text-[var(--color-text-muted)] hover:text-[var(--color-text)] text-sm transition-colors">OpenClaw Consulting</a></li>
               <li><a href="https://openclawsetup.xyz" className="text-[var(--color-text-muted)] hover:text-[var(--color-text)] text-sm transition-colors">OpenClaw Setup</a></li>
               <li><a href="https://moltbot.ceo" className="text-[var(--color-text-muted)] hover:text-[var(--color-text)] text-sm transition-colors">Moltbot Platform</a></li>
+              <li><a href="https://cyndra.ai" className="text-[var(--color-text-muted)] hover:text-[var(--color-text)] text-sm transition-colors">Built with Cyndra AI</a></li>
             </ul>
           </div>
 
