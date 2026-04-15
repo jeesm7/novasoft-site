@@ -236,7 +236,7 @@ function trackRapidPageViewing(data: ReturnType<typeof getSessionData>) {
   data.rapidPageViews.push(now);
   
   // Keep only views from last 2 minutes
-  data.rapidPageViews = data.rapidPageViews.filter(time => (now - time) < 120000);
+  data.rapidPageViews = data.rapidPageViews.filter((time: number) => (now - time) < 120000);
   
   if (data.rapidPageViews.length >= CONFIG.rapidPageThreshold && !data.alertSent) {
     sendHotProspectAlert(`Rapid browsing - ${CONFIG.rapidPageThreshold} pages in 2 minutes`, data);
@@ -400,7 +400,7 @@ export default function HotProspectTracker() {
         );
         
         if (isCta) {
-          trackCtaClick(link, data);
+          trackCtaClick(link as HTMLElement, data);
         }
       }
       
