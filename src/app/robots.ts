@@ -16,6 +16,31 @@ export default function robots(): MetadataRoute.Robots {
         userAgent: 'Bingbot',
         allow: '/',
       },
+      // AI crawlers - explicitly welcome
+      {
+        userAgent: 'GPTBot',
+        allow: '/',
+      },
+      {
+        userAgent: 'ChatGPT-User',
+        allow: '/',
+      },
+      {
+        userAgent: 'ClaudeBot',
+        allow: '/',
+      },
+      {
+        userAgent: 'anthropic-ai',
+        allow: '/',
+      },
+      {
+        userAgent: 'Google-Extended',
+        allow: '/',
+      },
+      {
+        userAgent: 'PerplexityBot',
+        allow: '/',
+      },
     ],
     sitemap: 'https://novasoftai.com/sitemap.xml',
   };

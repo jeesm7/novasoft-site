@@ -1,0 +1,43 @@
+# Novasoft AI
+
+> Novasoft AI builds AI-powered business assistants that handle customer communication, appointment scheduling, lead follow-up, and automation for small businesses. 24/7 automation that replaces hiring.
+
+Novasoft AI is the agency arm of Jess Mason's AI consulting practice. It specializes in production-grade AI systems including voice agents, lead qualification pipelines, and full-stack AI operations for service businesses.
+
+## Main Sections
+
+- / : Homepage - AI assistant for small business automation
+- /features : Feature breakdown of AI assistant capabilities
+- /use-cases : Real-world applications and use cases
+- /industries : Industry-specific solutions (real estate, healthcare, legal, etc.)
+- /case-studies : Client success stories and results
+- /tools : Free tools including AI ROI calculator and readiness quiz
+- /blog : Educational content on AI automation
+- /contact : Book a consultation
+- /faq : Frequently asked questions
+
+## Industries Served
+
+- Real Estate
+- Home Services (Roofing, HVAC, Plumbing)
+- Healthcare (Dental, Medical)
+- Legal (Law Firms)
+- Financial Services (Accountants)
+- Automotive (Dealerships)
+
+## Tools
+
+- /tools/ai-roi-calculator : Calculate ROI of AI automation
+- /tools/ai-readiness-quiz : Assess your business's AI readiness
+- /tools/hiring-vs-ai : Compare costs of hiring vs AI
+
+## Related
+
+- OpenClaw Consultant: https://openclawconsultant.com - OpenClaw implementation consulting
+- Moltbot: https://moltbot.ceo - Managed AI assistant service
+- YouTube: https://www.youtube.com/@JessAutomates - Free tutorials
+
+## Contact
+
+- Email: contact@novasoftai.com
+- Book a call: https://cal.com/jess-mason/openclaw-consultation
