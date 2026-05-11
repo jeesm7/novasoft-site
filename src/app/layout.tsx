@@ -5,6 +5,7 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import HotProspectTracker from "@/components/HotProspectTracker";
 import { OrganizationSchema, WebsiteSchema, SoftwareApplicationSchema } from "@/components/SchemaMarkup";
+import { GoogleAnalytics } from '@next/third-parties/google';
 
 // Display font - distinctive, modern, geometric
 const sora = Sora({ 
@@ -90,6 +91,7 @@ export default function RootLayout({
           {children}
         </main>
         <Footer />
+        <GoogleAnalytics gaId="G-H776KTXGE1" />
       </body>
     </html>
   );
